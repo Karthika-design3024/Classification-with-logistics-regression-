@@ -1,4 +1,4 @@
-# Classification-with-logistics-regression-
+# Classification-with-logistics-regression
 # 📝 AI & ML Internship — Task 4: Classification with Logistic Regression
 
 ## 📌 Objective
